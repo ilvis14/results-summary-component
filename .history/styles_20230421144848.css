@@ -218,7 +218,7 @@ button:hover {
 
   .container {
     grid-template-rows: repeat(2, 1fr);
-    /* height: 100vh; */
+    height: 100vh;
   }
 
   .resultInnerContainer {
